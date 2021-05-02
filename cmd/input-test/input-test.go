@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"github.com/leoluk/congruity/pkg/libinput"
+	log "github.com/sirupsen/logrus"
 	"golang.org/x/sys/unix"
-	"log"
 	"strings"
 )
 

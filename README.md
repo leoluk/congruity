@@ -52,7 +52,6 @@ itself. Most attack surfaces depend on knowledge of the device MAC and successfu
 - Avoid frequently re-pairing devices (pairing on most devices is "trust on first use").
 - Unpair unused or lost devices.
 - Disable Bluetooth when travelling or attending events.
-- Some vendors have a bad habit 
   
 Bluetooth is a low-range protocol and attacks require close physical proximity. An office
 deep inside a company campus is different environment than a DEFCON hotel room.
